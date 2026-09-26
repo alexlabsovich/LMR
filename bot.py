@@ -18,8 +18,8 @@ from telebot import types
 logging.basicConfig(level=logging.INFO)
 
 # ==================== НАСТРОЙКИ ====================
-TELEGRAM_TOKEN = "ВАШ_ТЕЛЕГРАМ_ТОКЕН"
-OPENROUTER_API_KEY = "ВАШ_OPENROUTER_КЛЮЧ"
+TELEGRAM_TOKEN = "8416010350:AAHvoGxRI4mgC1GE0P7nL4r5DKDKDkc_5sM"
+OPENROUTER_API_KEY = "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"
 MODEL = "nvidia/nemotron-3-ultra-550b-a55b:free"
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 
